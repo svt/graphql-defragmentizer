@@ -11,6 +11,10 @@
     "react",
     "apollo"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SVT/graphql-defragmentizer.git"
+  },
   "author": "Sveriges Television AB (https://www.svt.se/opensource/)",
   "license": "MIT",
   "dependencies": {
