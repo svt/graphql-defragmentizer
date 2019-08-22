@@ -1,0 +1,22 @@
+{
+  "name": "graphql-defragmentizer",
+  "version": "1.0.0",
+  "description": "Library for building GraphQL queries from fragments. Goes nicely with React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test.js"
+  },
+  "keywords": [
+    "graphql",
+    "react",
+    "apollo"
+  ],
+  "author": "Sveriges Television AB (https://www.svt.se/opensource/)",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^14.4.2"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
