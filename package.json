@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest test.js",
     "build": "babel index.js --presets babel-preset-env --out-dir distribution",
-    "prepublish": "npm run build"
+    "prepare": "npm run build"
   },
   "keywords": [
     "graphql",
