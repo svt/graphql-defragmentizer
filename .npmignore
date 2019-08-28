@@ -1,5 +1,5 @@
 /node_modules/
-/distribution/
+/yarn.lock
 
 # IntelliJ
 /.idea/

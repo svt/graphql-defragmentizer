@@ -1,10 +1,12 @@
 {
   "name": "graphql-defragmentizer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Library for building GraphQL queries from fragments. Goes nicely with React.",
-  "main": "index.js",
+  "main": "./distribution/index.js",
   "scripts": {
-    "test": "jest test.js"
+    "test": "jest test.js",
+    "build": "babel index.js --presets babel-preset-env --out-dir distribution",
+    "prepublish": "npm run build"
   },
   "keywords": [
     "graphql",
@@ -21,6 +23,8 @@
     "graphql": "^14.4.2"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
     "jest": "^24.9.0"
   }
 }
