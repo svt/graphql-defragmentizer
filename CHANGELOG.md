@@ -1,3 +1,7 @@
+## 2.0.1 - 2020-01-09
+
+Upgrade dependencies
+
 ## 2.0.0 - 2019-10-29
 
 Made "graphql" a peer dependency
