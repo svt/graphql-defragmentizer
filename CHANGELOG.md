@@ -1,3 +1,7 @@
+## 2.0.2 - 2020-04-16
+
+Upgrade dependencies
+
 ## 2.0.1 - 2020-01-09
 
 Upgrade dependencies
