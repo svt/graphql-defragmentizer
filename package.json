@@ -20,12 +20,12 @@
   "author": "Sveriges Television AB (https://www.svt.se/opensource/)",
   "license": "MIT",
   "peerDependencies": {
-    "graphql": "14.x"
+    "graphql": "14.x || 15.x"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
-    "graphql": "14.x",
-    "jest": "^24.9.0"
+    "graphql": "14.x || 15.x",
+    "jest": "^25.3.0"
   }
 }
