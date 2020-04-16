@@ -1,6 +1,6 @@
 {
   "name": "graphql-defragmentizer",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Library for building GraphQL queries from fragments. Goes nicely with React.",
   "main": "./distribution/index.js",
   "scripts": {
