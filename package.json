@@ -26,6 +26,6 @@
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "graphql": "14.x || 15.x",
-    "jest": "^25.3.0"
+    "jest": "^26"
   }
 }
