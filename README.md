@@ -138,7 +138,7 @@ fragment, so two identical fragments will be merged into one.
 
 ## License
 
-Copyright (c) 2019 Sveriges Television AB.
+Copyright (c) 2019-2021 Sveriges Television AB.
 
 graphql-defragmentizer is released under the [MIT License](LICENSE).
 
