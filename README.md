@@ -15,8 +15,9 @@ There's no dependency on React and can be used by all kinds of GraphQL clients.
 
 ### Status
 
-We're using it in production at [SVT](https://www.svt.se/opensource/) and will likely fix problems if we encounter any.
-[Contributions](CONTRIBUTING.md) are welcome!  
+We are no longer using it in production at [SVT](https://www.svt.se/opensource/), having replaced it with [@graphql-codegen/cli](https://github.com/dotansimha/graphql-code-generator). They don't automatically combine the fragments for you, but has other advantages for TypeScript instead.  
+
+graphql-defragmentizer is no longer actively maintained, but [contributions](CONTRIBUTING.md) are still welcome.  
 
 ## API
 
